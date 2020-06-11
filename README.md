@@ -12,5 +12,5 @@ depending on following information about him.\
 • Loan Amount Term (Duration in months in which he would pay his loan)\
 • Credit History (Credit History meet guideline)\
 • Property Area (Urban/Semi-Urban/Rural)\
-In the end it would get the result in (Y/N) that person loan is being approved and stored in Loan Status.
+**In the end it would get the result in (Y/N) that person loan is being approved and stored in Loan Status.**
 
