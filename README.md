@@ -1,6 +1,6 @@
 # Loan-Prediction-System
 The goal was to make a system that is capable of predicting the loan status i.e. that the person should be getting the loan or not
-depending on following information about him.\
+depending on following information about him.
   - Gender (Male/Female)
   - Married (Y/N)
   - Dependents (no. of persons depending on his income)
